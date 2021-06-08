@@ -1,0 +1,6 @@
+pyautogui
+pyttsx3
+speech_recognition
+bs4
+pyjokes
+wolframalpha
