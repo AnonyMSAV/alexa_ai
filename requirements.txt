@@ -1,6 +1,6 @@
 pyautogui
 pyttsx3
-speech_recognition
+speechrecognition
 bs4
 pyjokes
 wolframalpha
