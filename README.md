@@ -1,6 +1,8 @@
 # alexa_ai
 My custom AI assistant
 
+Run 'pip install -r requirements.txt' in cmd or terminal before using.
+
 Abilities - Take screenshot,
              Play music,
              Shoutdown computer,
