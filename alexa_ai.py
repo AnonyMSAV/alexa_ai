@@ -1,6 +1,5 @@
 import speech_recognition as sr
 import pyttsx3
-import google
 import pyautogui
 import os
 import wolframalpha
